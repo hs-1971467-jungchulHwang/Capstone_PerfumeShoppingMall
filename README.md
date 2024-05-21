@@ -87,10 +87,15 @@ React,Flutter와 SpringBoot를 이용한 향수쇼핑몰 웹/앱 서비스로 �
 <br/>
 ( 상품 상세 )
 <img width="560" alt="image" src="https://github.com/hs-1971467-jungchulHwang/Capstone_PerfumeShoppingMall/assets/106284092/136f1783-6cb2-4b47-a840-9e4b28b26393">
+<br/>
+ ( 로그인 / 회원가입 )
+ <img width="560" alt="image" src="https://github.com/hs-1971467-jungchulHwang/Capstone_PerfumeShoppingMall/assets/106284092/c43f4a0e-da35-470d-a584-ed0f7d04359b">
+ <img width="559" alt="image" src="https://github.com/hs-1971467-jungchulHwang/Capstone_PerfumeShoppingMall/assets/106284092/196c21cf-1491-4b59-99f0-f79b7da7c8a8">
+<br/>
+ ( 장바구니 )
+ <img width="558" alt="image" src="https://github.com/hs-1971467-jungchulHwang/Capstone_PerfumeShoppingMall/assets/106284092/e62bee9f-2d5c-42e6-9770-6bebf031ee34">
 
 <br/>
- 로그인 / 회원가입
- 장바구니
 
 
 </details>
