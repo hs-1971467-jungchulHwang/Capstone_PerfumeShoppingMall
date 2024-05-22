@@ -1,5 +1,9 @@
-## 🛒 향수 쇼핑몰 Perfume Dream
-
+<div align="center">
+  <img src="https://github.com/hs-1971467-jungchulHwang/Capstone_PerfumeShoppingMall/assets/111953799/857bc5dd-4ca3-4104-9dfe-0193a2baf209" alt="pd로고"/>
+</div>
+<div align="center">
+  <h1><strong>🛒 향수 쇼핑몰 Perfume Dream</strong></h1>
+</div>
 <br/>
 
 ## 🚀 목차
