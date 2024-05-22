@@ -21,7 +21,7 @@ React,Flutter와 SpringBoot를 이용한 향수쇼핑몰 웹/앱 서비스로 �
 
 ## 👩‍👩‍👧‍👦 팀원 소개
 
-| 역할                  | 학번       | 이름      | 주소                                              |
+| 역할                  | 학번       | 이름      | Git URL                                              |
 |---------------------|-----------|---------|---------------------------------------------------|
 | 프론트엔드 (iOS)      | 1971434   | 조정우   | [https://example.com/jojeongwoo](https://example.com/jojeongwoo)     |
 | 프론트엔드 (Android)  | 1971467   | 황정철   | [https://example.com/hwangjeongcheol](https://example.com/hwangjeongcheol) |
