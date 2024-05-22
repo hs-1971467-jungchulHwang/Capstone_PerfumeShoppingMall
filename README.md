@@ -6,7 +6,7 @@
 
 1. [개요](#-개요)
 2. [팀원 소개](#-팀원-소개)
-3. [개발환경](#개발환경)
+3. [개발환경](#-개발-환경)
 4. [REST API 명세서](#-REST-API-명세서)
 5. [구현 화면](#-구현-화면)
 
@@ -31,7 +31,7 @@ React,Flutter와 SpringBoot를 이용한 향수쇼핑몰 웹/앱 서비스로 �
 
 <br/>
 
-## ⚙️ 개발환경
+## ⚙️ 개발 환경
 
 ![image](https://github.com/hs-1971467-jungchulHwang/Capstone_PerfumeShoppingMall/assets/106284092/e1a02090-d446-4030-8a1f-7fc666e22622)
 
