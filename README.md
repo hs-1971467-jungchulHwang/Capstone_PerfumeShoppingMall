@@ -9,6 +9,7 @@
 3. [개발 환경](#-개발-환경)
 4. [REST API 명세서](#-REST-API-명세서)
 5. [구현 화면](#-구현-화면)
+6. [팀원사진](#-팀원-사진)
 
 <br/>
 
@@ -28,6 +29,14 @@ React,Flutter와 SpringBoot를 이용한 향수쇼핑몰 웹/앱 서비스로 �
 | 프론트엔드 (React)    | 2171202   | 김지효   | [https://example.com/kimjihyo](https://example.com/kimjihyo)       |
 | 백엔드 (Spring Boot)  | 1971196   | 정재민   | [https://github.com/jaemin0211/backend_perfume](https://github.com/jaemin0211/backend_perfume)   |
 
+---
+
+<br/>
+
+##👩‍👩‍👧‍👦 팀원 사진
+
+
+---
 
 <br/>
 
