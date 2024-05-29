@@ -156,23 +156,33 @@ React,Flutter와 SpringBoot를 이용한 향수쇼핑몰 웹/앱 서비스로 �
     <td>내 주문 조회</td>
   </tr>
   <tr>
-    <td rowspan="2">상품 관리</td>
-    <td>상품 등록/수정/삭제</td>
+    <td rowspan="4">제품</td>
+    <td rowspan="4">제품 기능</td>
+    <td>장바구니에 제품 추가</td>
+    <td rowspan="4">
+      <a>
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+      </a>
+      <!--
+      <a>
+        <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white">
+      </a>
+      <a>
+        <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
+      </a>
+      -->
+    </td>
   </tr>
   <tr>
-    <td>등록 상품 조회</td>
+    <td>모든 카테고리 조회</td>
   </tr>
   <tr>
-    <td rowspan="2">주문 관리</td>
-    <td>상품 별 주문 조회</td>
+    <td>상품 좋아요</td>
   </tr>
   <tr>
-    <td>주문 상태 관리</td>
+    <td>카테고리별 상품 조회</td>
   </tr>
-  <tr>
-    <td>통계 조회</td>
-    <td>상품 별 통계 조회</td>
-  </tr>
+
 </table>
 <br/>
 
