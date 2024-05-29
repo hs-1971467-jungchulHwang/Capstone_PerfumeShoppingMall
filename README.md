@@ -69,14 +69,8 @@ React,Flutter와 SpringBoot를 이용한 향수쇼핑몰 웹/앱 서비스로 �
     <td rowspan="8">관리자 페이지</td>
     <td>관리자 로그인</td>
     <td rowspan="8">
-      <a href="https://youtu.be/zuX8he8IigY?si=Cbs5km0AlTjEbWl3" style="text-decoration:none">
+      <a>
         <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-      </a>
-      <a href="https://youtu.be/azMG3bj1aTk" style="text-decoration:none">
-        <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white">
-      </a>
-      <a href="https://www.youtube.com/watch?v=f7ISUhxcLwg" style="text-decoration:none">
-        <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
       </a>
     </td>
   </tr>
@@ -139,14 +133,12 @@ React,Flutter와 SpringBoot를 이용한 향수쇼핑몰 웹/앱 서비스로 �
       <a>
         <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
       </a>
-      <!--
       <a>
         <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white">
       </a>
       <a>
         <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
       </a>
-      -->
     </td>
   </tr>
   <tr>
@@ -163,14 +155,12 @@ React,Flutter와 SpringBoot를 이용한 향수쇼핑몰 웹/앱 서비스로 �
       <a>
         <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
       </a>
-      <!--
       <a>
         <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white">
       </a>
       <a>
         <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
       </a>
-      -->
     </td>
   </tr>
   <tr>
