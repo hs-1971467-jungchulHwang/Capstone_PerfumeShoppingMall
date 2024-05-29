@@ -56,7 +56,136 @@ React,Flutter와 SpringBoot를 이용한 향수쇼핑몰 웹/앱 서비스로 �
 <br/>
 
 ## 🔧 기능구성도
-
+<table>
+  <tr>
+    <th>카테고리</th>
+    <th>주 기능</th>
+    <th>세부 기능</th>
+    <th>
+    </th>
+  </tr>
+  <tr>
+    <td rowspan="8">관리자</td>
+    <td rowspan="8">관리자 페이지</td>
+    <td>관리자 로그인</td>
+    <td rowspan="8">
+      <a href="https://youtu.be/zuX8he8IigY?si=Cbs5km0AlTjEbWl3" style="text-decoration:none">
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+      </a>
+      <a href="https://youtu.be/azMG3bj1aTk" style="text-decoration:none">
+        <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white">
+      </a>
+      <a href="https://www.youtube.com/watch?v=f7ISUhxcLwg" style="text-decoration:none">
+        <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>모든 상품 조회</td>
+  </tr>
+    <tr>
+    <td>상품 추가</td>
+  </tr>
+    <tr>
+    <td>상품 수정</td>
+  </tr>
+    <tr>
+    <td>페이징된 상품 조회</td>
+  </tr>
+    <tr>
+    <td>페이징된 주문 조회</td>
+  </tr>
+    <tr>
+    <td>특정 주문 상세 조회</td>
+  </tr>
+    <tr>
+    <td>주문 상태 변경</td>
+  </tr>
+  <tr>
+    <td rowspan="4">구매 관리</td>
+    <td rowspan="2">장바구니 관리</td>
+    <td>의류 등록/제거</td>
+    <td rowspan="4">
+      <a href="https://youtu.be/J1QD045AY6w?si=ol-0yCsCDslxsUo9" style="text-decoration:none">
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+      </a>
+      <a href="https://youtu.be/ijnSymD3orA" style="text-decoration:none">
+        <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white">
+      </a>
+      <a href="https://www.youtube.com/watch?v=-BId9Ws8t_g" style="text-decoration:none">
+        <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>선택항목 구매</td>
+  </tr>
+  <tr>
+    <td rowspan="2">구매내역 관리</td>
+    <td>배송 내역 관리</td>
+  </tr>
+  <tr>
+    <td>환불/주문취소 요청</td>
+  </tr>
+  <tr>
+    <td rowspan="2">검색 관리</td>
+    <td rowspan="2">의류 검색</td>
+    <td>이름 검색</td>
+    <td rowspan="2">
+      <a href="https://youtu.be/kn0gpgToyzU?si=HSdp-J7oe1Jq9pL2" style="text-decoration:none">
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+      </a>
+      <a href="https://youtu.be/Sykf3S4-LCo" style="text-decoration:none">
+        <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white">
+      </a>
+      <a href="https://www.youtube.com/watch?v=P7HSYhuJKAY" style="text-decoration:none">
+        <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>카테고리 검색</td>
+  </tr>
+  <tr>
+    <td rowspan="7">판매 관리</td>
+    <td rowspan="2">판매자 정보 관리</td>
+    <td>판매자 가입</td>
+    <td rowspan="7">
+      <a href="https://youtu.be/fSYLGonhruY?si=UGz19-EohsMLD74N" style="text-decoration:none">
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+      </a>
+      <!--
+      <a href="https://github.com/pszzang123/capstone2024/blob/main/README.md" style="text-decoration:none">
+        <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white">
+      </a>
+      <a href="https://github.com/pszzang123/capstone2024/blob/main/README.md" style="text-decoration:none">
+        <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
+      </a>
+      -->
+    </td>
+  </tr>
+  <tr>
+    <td>판매자 로그인/로그아웃</td>
+  </tr>
+  <tr>
+    <td rowspan="2">상품 관리</td>
+    <td>상품 등록/수정/삭제</td>
+  </tr>
+  <tr>
+    <td>등록 상품 조회</td>
+  </tr>
+  <tr>
+    <td rowspan="2">주문 관리</td>
+    <td>상품 별 주문 조회</td>
+  </tr>
+  <tr>
+    <td>주문 상태 관리</td>
+  </tr>
+  <tr>
+    <td>통계 조회</td>
+    <td>상품 별 통계 조회</td>
+  </tr>
+</table>
 <br/>
 
 ## 📝 REST API 명세서
