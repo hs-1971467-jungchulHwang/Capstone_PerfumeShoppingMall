@@ -258,14 +258,14 @@ React,Flutter와 SpringBoot를 이용한 향수쇼핑몰 웹/앱 서비스로 �
 ## 📊 비교표
 <img src="https://github.com/hs-1971467-jungchulHwang/Capstone_PerfumeShoppingMall/assets/111953799/de894fbf-2dfd-4d54-97be-bf8a203c89ab" width="500" />
 
-최우수: https://github.com/capstone-aloha   
-우수1: https://github.com/TeamCookCaps   
-우수2: https://github.com/godi00/capstone
+최우수 : https://github.com/capstone-aloha   
+우수1 : https://github.com/TeamCookCaps   
+우수2 : https://github.com/godi00/capstone
 
 <br/>
 
 ## 💡 9.25 한성공학경진대회 추가예정사항
 1. 개인에게 맞는 향수 추천 알고리즘 추가
 2. 향수에 대해 정보를 남길 수 있는 커뮤니티 기능 추가
-3. Azure, gcp 에서 수행 추가하기
+3. Azure, GCP에서 수행 추가
 
