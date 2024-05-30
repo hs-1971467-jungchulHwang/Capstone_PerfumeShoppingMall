@@ -214,31 +214,30 @@ React,Flutter와 SpringBoot를 이용한 향수쇼핑몰 웹/앱 서비스로 �
 <summary> ▶️ click! </summary>
 <br/>
 ( 메인홈 )   
-<img width="945" alt="image" src="https://github.com/hs-1971467-jungchulHwang/Capstone_PerfumeShoppingMall/assets/106284092/c4248ca1-ad60-43d6-abf1-84f12bcfca5b">
-
+<img width="945" alt="image" src="https://github.com/hs-1971467-jungchulHwang/Capstone_PerfumeShoppingMall/assets/106284092/c4248ca1-ad60-43d6-abf1-84f12bcfca5b">   
 <br/>
 ( 상품 목록 )   
-<img width="945" alt="image" src="https://github.com/hs-1971467-jungchulHwang/Capstone_PerfumeShoppingMall/assets/106284092/ed7426e7-cbf0-4b14-af67-ffa11307e089">
+<img width="945" alt="image" src="https://github.com/hs-1971467-jungchulHwang/Capstone_PerfumeShoppingMall/assets/106284092/ed7426e7-cbf0-4b14-af67-ffa11307e089">   
 <br/>
 ( 상품 상세 )   
-<img width="944" alt="image" src="https://github.com/hs-1971467-jungchulHwang/Capstone_PerfumeShoppingMall/assets/106284092/b9e79195-4fe4-428c-b1e2-8118029de618">
+<img width="944" alt="image" src="https://github.com/hs-1971467-jungchulHwang/Capstone_PerfumeShoppingMall/assets/106284092/b9e79195-4fe4-428c-b1e2-8118029de618">   
 <br/>
  ( 로그인 / 회원가입 )   
- <img width="959" alt="image" src="https://github.com/hs-1971467-jungchulHwang/Capstone_PerfumeShoppingMall/assets/106284092/099bfcd6-4731-47ae-b560-b563957c250e">
+ <img width="959" alt="image" src="https://github.com/hs-1971467-jungchulHwang/Capstone_PerfumeShoppingMall/assets/106284092/099bfcd6-4731-47ae-b560-b563957c250e">   
 
-<img width="959" alt="image" src="https://github.com/hs-1971467-jungchulHwang/Capstone_PerfumeShoppingMall/assets/106284092/5327cc8a-bec0-4d00-816d-ac3eecdf5947">
+<img width="959" alt="image" src="https://github.com/hs-1971467-jungchulHwang/Capstone_PerfumeShoppingMall/assets/106284092/5327cc8a-bec0-4d00-816d-ac3eecdf5947">   
 <br/>
  ( 장바구니 )   
-<img width="944" alt="image" src="https://github.com/hs-1971467-jungchulHwang/Capstone_PerfumeShoppingMall/assets/106284092/2f74e1ec-5303-4b0c-a49d-d61547482c5f">
+<img width="944" alt="image" src="https://github.com/hs-1971467-jungchulHwang/Capstone_PerfumeShoppingMall/assets/106284092/2f74e1ec-5303-4b0c-a49d-d61547482c5f">   
 <br/>
  ( 관심상품 )   
- <img width="946" alt="image" src="https://github.com/hs-1971467-jungchulHwang/Capstone_PerfumeShoppingMall/assets/106284092/bc687959-95ad-428a-8b27-8b8b3d208089">
+ <img width="946" alt="image" src="https://github.com/hs-1971467-jungchulHwang/Capstone_PerfumeShoppingMall/assets/106284092/bc687959-95ad-428a-8b27-8b8b3d208089">   
 <br/>
  ( 내 정보 )   
- <img width="946" alt="image" src="https://github.com/hs-1971467-jungchulHwang/Capstone_PerfumeShoppingMall/assets/106284092/58c38a03-6d7f-4477-bdf4-1fe02238ce0b">
+ <img width="946" alt="image" src="https://github.com/hs-1971467-jungchulHwang/Capstone_PerfumeShoppingMall/assets/106284092/58c38a03-6d7f-4477-bdf4-1fe02238ce0b">   
 <br/>
  ( 메뉴 )   
- <img width="946" alt="image" src="https://github.com/hs-1971467-jungchulHwang/Capstone_PerfumeShoppingMall/assets/106284092/79dd91fb-3af8-4e9e-a630-be7e708bc9e1">
+ <img width="946" alt="image" src="https://github.com/hs-1971467-jungchulHwang/Capstone_PerfumeShoppingMall/assets/106284092/79dd91fb-3af8-4e9e-a630-be7e708bc9e1">   
 <br/>
 
 </details>
@@ -249,28 +248,28 @@ React,Flutter와 SpringBoot를 이용한 향수쇼핑몰 웹/앱 서비스로 �
 
 <br/>
 ( 메인홈 )   
-<img width="240" alt="image" src="https://github.com/hs-1971467-jungchulHwang/Capstone_PerfumeShoppingMall/assets/106284092/3db02790-6b8f-46da-9b8a-06cd38e0cfe8">
+<img width="240" alt="image" src="https://github.com/hs-1971467-jungchulHwang/Capstone_PerfumeShoppingMall/assets/106284092/3db02790-6b8f-46da-9b8a-06cd38e0cfe8">   
 <br/>
 ( 상품 목록 )   
-<img width="247" alt="image" src="https://github.com/hs-1971467-jungchulHwang/Capstone_PerfumeShoppingMall/assets/106284092/51d99107-6398-4109-a78c-c3dc94cbd365">
+<img width="247" alt="image" src="https://github.com/hs-1971467-jungchulHwang/Capstone_PerfumeShoppingMall/assets/106284092/51d99107-6398-4109-a78c-c3dc94cbd365">   
 <br/>
 ( 상품 상세 )   
-<img width="238" alt="image" src="https://github.com/hs-1971467-jungchulHwang/Capstone_PerfumeShoppingMall/assets/106284092/306c6cbd-4553-42ff-be6b-cf684f89c194">
+<img width="238" alt="image" src="https://github.com/hs-1971467-jungchulHwang/Capstone_PerfumeShoppingMall/assets/106284092/306c6cbd-4553-42ff-be6b-cf684f89c194">   
 <br/>
  ( 로그인 / 회원가입 )   
-<img width="239" alt="image" src="https://github.com/hs-1971467-jungchulHwang/Capstone_PerfumeShoppingMall/assets/106284092/3e259ea2-5ce9-45da-9ed0-7c7a74b967f3">
+<img width="239" alt="image" src="https://github.com/hs-1971467-jungchulHwang/Capstone_PerfumeShoppingMall/assets/106284092/3e259ea2-5ce9-45da-9ed0-7c7a74b967f3">   
 <br/>
  ( 장바구니 )   
-<img width="248" alt="image" src="https://github.com/hs-1971467-jungchulHwang/Capstone_PerfumeShoppingMall/assets/106284092/9de8fdc8-4941-40d9-9ff3-7a56c551cc89">
+<img width="248" alt="image" src="https://github.com/hs-1971467-jungchulHwang/Capstone_PerfumeShoppingMall/assets/106284092/9de8fdc8-4941-40d9-9ff3-7a56c551cc89">   
 <br/>
  ( 관심상품 )   
- <img width="238" alt="image" src="https://github.com/hs-1971467-jungchulHwang/Capstone_PerfumeShoppingMall/assets/106284092/f5ce5c38-305e-499e-9014-ec2377b3d24c">
+ <img width="238" alt="image" src="https://github.com/hs-1971467-jungchulHwang/Capstone_PerfumeShoppingMall/assets/106284092/f5ce5c38-305e-499e-9014-ec2377b3d24c">   
 <br/>
  ( 내 정보 )   
- <img width="241" alt="image" src="https://github.com/hs-1971467-jungchulHwang/Capstone_PerfumeShoppingMall/assets/106284092/c47966f0-1720-4d44-860a-b4b53c9fb757">
+ <img width="241" alt="image" src="https://github.com/hs-1971467-jungchulHwang/Capstone_PerfumeShoppingMall/assets/106284092/c47966f0-1720-4d44-860a-b4b53c9fb757">   
 <br/>
  ( 메뉴 )   
- <img width="224" alt="image" src="https://github.com/hs-1971467-jungchulHwang/Capstone_PerfumeShoppingMall/assets/106284092/abcb981a-94ac-4d59-aa6e-29c944ed3e29">
+ <img width="224" alt="image" src="https://github.com/hs-1971467-jungchulHwang/Capstone_PerfumeShoppingMall/assets/106284092/abcb981a-94ac-4d59-aa6e-29c944ed3e29">   
 <br/>
 
 </details>
