@@ -333,12 +333,12 @@ React, Flutter와 SpringBoot를 이용한 향수 쇼핑몰 웹/앱 서비스로 
 <br/>
 
 ## 📊 비교표
-|      |   :Perfume Dream:    | :최우수: | :우수 1: | :우수 2: |
-|----- |--------------------|--------|-------|---------|
-| :code: |          :O:         |   :O:   |   :O:   |   :O:   |
-| :doc:  |          :O:         |   :O:   |   :X:   |   :X:   |
-| :영상: |          :O:         |   :X:   |   :X:   |   :X:   |
-| :화면: | :React(Web, Mobile), IOS, Android: | :React(Web, Mobile): | :React(Web, Mobile): | :React(Web, Mobile): |
+|      |   Perfume Dream    | 최우수 | 우수 1 | 우수 2 |
+|:-----:|:------------------:|:------:|:-------:|:-------:|
+| code |          O         |   O   |   O   |   O   |
+| doc  |          O         |   O   |   X   |   X   |
+| 영상 |          O         |   X   |   X   |   X   |
+| 화면 | React(Web, Mobile), IOS, Android | React(Web, Mobile) | React(Web, Mobile) | React(Web, Mobile) |
 
 <img src="https://github.com/hs-1971467-jungchulHwang/Capstone_PerfumeShoppingMall/assets/111953799/de894fbf-2dfd-4d54-97be-bf8a203c89ab" width="500" />    
 <br/>
