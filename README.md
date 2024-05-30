@@ -205,7 +205,7 @@ React, Flutter와 SpringBoot를 이용한 향수 쇼핑몰 웹/앱 서비스로 
 | 개별 상품 주문           | POST        | `/order/detail/{productId}`      | ✅       |
 | 내 주문 조회             | GET         | `/order/my`                      | ✅       |
 | 카테고리별 상품 조회        | GET         | `/product/category`              | ✅       |
----
+
 
 <br/>
 
