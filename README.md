@@ -35,9 +35,9 @@ React, Flutter와 SpringBoot를 이용한 향수 쇼핑몰 웹/앱 서비스로 
 
 | 역할                  | 학번       | 이름 | Git URL                                              |
 |:---------------------:|:-----------:|:-------------:|:---------------------------------------------------:|
-| 프론트엔드 (IOS)     | 1971434 | 조정우   | [https://github.com/jungwoooooooo/perfumedream_capston2024](https://github.com/jungwoooooooo/perfumedream_capston2024)     |
-| 프론트엔드 (Android) | 1971467 | 황정철   | [https://github.com/hs-1971467-jungchulHwang/perfumedream_capston2024_Android](https://github.com/hs-1971467-jungchulHwang/perfumedream_capston2024_Android) |
-| 프론트엔드 (React)   | 2171202 | 김지효   | [https://github.com/hjjh0531/react-perfume](https://github.com/hjjh0531/react-perfume)       |
+| 프론트엔드 (IOS)     | 1971434 | 조정우  | [https://github.com/jungwoooooooo/perfumedream_capston2024](https://github.com/jungwoooooooo/perfumedream_capston2024)     |
+| 프론트엔드 (Android) | 1971467 | 황정철  | [https://github.com/hs-1971467-jungchulHwang/perfumedream_capston2024_Android](https://github.com/hs-1971467-jungchulHwang/perfumedream_capston2024_Android) |
+| 프론트엔드 (React)   | 2171202 | 김지효  | [https://github.com/hjjh0531/react-perfume](https://github.com/hjjh0531/react-perfume)       |
 | 백엔드 (Spring Boot) | 1971196 | 정재민  | [https://github.com/jaemin0211/backend_perfume](https://github.com/jaemin0211/backend_perfume)   |
 
 <br/>
