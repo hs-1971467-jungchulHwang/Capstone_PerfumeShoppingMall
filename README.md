@@ -234,7 +234,9 @@ React,Flutter와 SpringBoot를 이용한 향수쇼핑몰 웹/앱 서비스로 �
  ( 관심상품 )
  <img width="946" alt="image" src="https://github.com/hs-1971467-jungchulHwang/Capstone_PerfumeShoppingMall/assets/106284092/bc687959-95ad-428a-8b27-8b8b3d208089">
 <br/>
-
+ ( 내 정보 )
+ <img width="946" alt="image" src="https://github.com/hs-1971467-jungchulHwang/Capstone_PerfumeShoppingMall/assets/106284092/58c38a03-6d7f-4477-bdf4-1fe02238ce0b">
+<br/>
 </details>
 
 ### 웹 앱 화면
@@ -260,6 +262,11 @@ React,Flutter와 SpringBoot를 이용한 향수쇼핑몰 웹/앱 서비스로 �
  ( 관심상품 )
  <img width="238" alt="image" src="https://github.com/hs-1971467-jungchulHwang/Capstone_PerfumeShoppingMall/assets/106284092/f5ce5c38-305e-499e-9014-ec2377b3d24c">
 <br/>
+ ( 내 정보 )
+ <img width="241" alt="image" src="https://github.com/hs-1971467-jungchulHwang/Capstone_PerfumeShoppingMall/assets/106284092/c47966f0-1720-4d44-860a-b4b53c9fb757">
+
+<br/>
+
 </details>
   
 ### IOS 앱 화면
