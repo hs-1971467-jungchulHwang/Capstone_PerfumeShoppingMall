@@ -292,7 +292,7 @@ React, Flutter와 SpringBoot를 이용한 향수 쇼핑몰 웹/앱 서비스로 
 <summary> ▶️ click! </summary>
 
 <br/>
-   ( 상품 목록 )      ( 상품 상세 )       ( 로그인 )       ( 회원가입 )
+   ( 상품 목록 )        ( 상품 상세 )        ( 로그인 )       ( 회원가입 )
 <img width="1000" alt="image" src="https://github.com/hs-1971467-jungchulHwang/Capstone_PerfumeShoppingMall/assets/115887505/b34df6aa-3676-4b92-98c7-39d1618ddcb5">
 <br/>
 
