@@ -11,14 +11,13 @@
 
 1. [개요](#-개요)
 2. [팀원 소개](#-팀원-소개)
-3. [팀원 사진](#-팀원-사진)
-4. [개발 환경](#%EF%B8%8F-개발-환경)
-5. [기능구성도](#-기능구성도)
-6. [REST API 명세서](#-REST-API-명세서)
-7. [구현 화면](#-구현-화면)
-8. [시연 영상](#-시연-영상)
-9. [비교표](#-비교표)
-10. [9.25 한성공학경진대회 추가예정사항](#-9.25-한성공학경진대회-추가예정사항)
+3. [개발 환경](#%EF%B8%8F-개발-환경)
+4. [기능구성도](#-기능구성도)
+5. [REST API 명세서](#-REST-API-명세서)
+6. [구현 화면](#-구현-화면)
+7. [시연 영상](#-시연-영상)
+8. [비교표](#-비교표)
+9. [9.25 한성공학경진대회 추가예정사항](#-9.25-한성공학경진대회-추가예정사항)
 
 
 <br/>
@@ -33,16 +32,6 @@ React, Flutter와 SpringBoot를 이용한 향수 쇼핑몰 웹/앱 서비스로 
 
 ## 👩‍👩‍👧‍👦 팀원 소개
 
-| 역할                  | 학번       | 이름       | Git URL                                              |
-|:---------------------:|:-----------:|:-------------:|:---------------------------------------------------:|
-| 프론트엔드 (IOS)     | 1971434 | 조정우 | [https://github.com/jungwoooooooo/perfumedream_capston2024](https://github.com/jungwoooooooo/perfumedream_capston2024)     |
-| 프론트엔드 (Android) | 1971467 | 황정철 | [https://github.com/hs-1971467-jungchulHwang/perfumedream_capston2024_Android](https://github.com/hs-1971467-jungchulHwang/perfumedream_capston2024_Android) |
-| 프론트엔드 (React)   | 2171202 | 김지효 | [https://github.com/hjjh0531/react-perfume](https://github.com/hjjh0531/react-perfume)       |
-| 백엔드 (Spring Boot) | 1971196 | 정재민| [https://github.com/jaemin0211/backend_perfume](https://github.com/jaemin0211/backend_perfume)   |
-
-<br/>
-
-## 📷 팀원 사진
 <div sytle="overflow:hidden;">
 <table>
    <tr>
