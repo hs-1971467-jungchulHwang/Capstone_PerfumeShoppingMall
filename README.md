@@ -197,7 +197,7 @@ React,Flutter와 SpringBoot를 이용한 향수쇼핑몰 웹/앱 서비스로 �
 
 ## 💻 구현 화면
 
-### 웹 화면
+ ### 웹 화면
 <details>
 <summary> ▶️ click! </summary>
 <br/>
@@ -225,7 +225,7 @@ React,Flutter와 SpringBoot를 이용한 향수쇼핑몰 웹/앱 서비스로 �
 <br/>
 
 
-### 웹 앱 화면
+ ### 웹 앱 화면
 <details>
 <summary> ▶️ click! </summary>
 
@@ -249,12 +249,12 @@ React,Flutter와 SpringBoot를 이용한 향수쇼핑몰 웹/앱 서비스로 �
 <br/>
 </details>
 
-### IOS 앱 화면
+ ### IOS 앱 화면
 <details>
 <summary> ▶️ click! </summary>
 </details>
 
-### Android 앱 화면
+ ### Android 앱 화면
 <details>
 <summary> ▶️ click! </summary>
 </details>
