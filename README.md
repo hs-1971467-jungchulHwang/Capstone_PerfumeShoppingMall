@@ -189,8 +189,21 @@ React,Flutter와 SpringBoot를 이용한 향수쇼핑몰 웹/앱 서비스로 �
 | 페이징된 상품 조회 (관리자) | GET         | `/admin/view/product/{page}/{size}` | ✅       |
 | 페이징된 주문 조회 (관리자) | GET         | `/admin/view/orders/{page}/{size}` | ✅       |
 | 특정 주문 상세 조회 (관리자) | GET         | `/admin/view/details/items/{orderId}` | ✅       |
-| 주문 상태 변경 (관리자)    | POST        | `/admin/change/state/{orderId}품 )
-
+| 주문 상태 변경 (관리자)    | POST        | `/admin/change/state/{orderId}`  | ✅       |
+| 장바구니에 상품 추가       | POST        | `/cart/addCart`                  | ✅       |
+| 모든 카테고리 조회         | GET         | `/category/all`                  | ✅       |
+| 상품 좋아요             | POST        | `/like/{productNo}`              | ✅       |
+| 회원 가입              | POST        | `/member/join`                   | ✅       |
+| 아이디 중복 확인          | POST        | `/member/id-check`               | ✅       |
+| 전화번호 중복 확인         | POST        | `/member/phone-check`            | ✅       |
+| 사용자 로그인            | POST        | `/member/login`                  | ✅       |
+| 아이디 찾기             | POST        | `/member/find-id`                | ✅       |
+| 비밀번호 찾기            | POST        | `/member/find-password`          | ✅       |
+| 장바구니 주문            | POST        | `/order/cart`                    | ✅       |
+| 개별 상품 주문           | POST        | `/order/detail/{productId}`      | ✅       |
+| 내 주문 조회             | GET         | `/order/my`                      | ✅       |
+| 카테고리별 상품 조회        | GET         | `/product/category`              | ✅       |
+---
 
 <br/>
 
