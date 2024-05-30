@@ -308,13 +308,12 @@ https://youtu.be/0xI4mW6GvUM
 
 ### Android 시연 영상
 <br/>
-<br/>
 
 <br/>
 
 ## 📊 비교표
 <img src="https://github.com/hs-1971467-jungchulHwang/Capstone_PerfumeShoppingMall/assets/111953799/de894fbf-2dfd-4d54-97be-bf8a203c89ab" width="500" />    
-
+<br/>
 최우수 : https://github.com/capstone-aloha     
 우수1 : https://github.com/TeamCookCaps     
 우수2 : https://github.com/godi00/capstone  
