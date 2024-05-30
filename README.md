@@ -1,4 +1,4 @@
-<div align="center">
+![image](https://github.com/hs-1971467-jungchulHwang/Capstone_PerfumeShoppingMall/assets/115887505/835aea91-a12b-4197-9d8b-4a771abbd9c3)<div align="center">
   <img src="https://github.com/hs-1971467-jungchulHwang/Capstone_PerfumeShoppingMall/assets/111953799/857bc5dd-4ca3-4104-9dfe-0193a2baf209" alt="pd로고" width = "200" height="200"/>
 </div>
 <div align="center">
@@ -43,7 +43,29 @@ React, Flutter와 SpringBoot를 이용한 향수 쇼핑몰 웹/앱 서비스로 
 <br/>
 
 ## 📷 팀원 사진
+<div sytle="overflow:hidden;">
+<table>
+   <tr>
+      <td colspan="3" align="center"><strong>Front-End Developer</strong></td>
+      <td colspan="1" align="center"><strong>Back-End Developer</strong></td>
+   </tr>
+  <tr>
+    <td align="center">
+        <a href="https://github.com/jungwoooooooo/perfumedream_capston2024"><img src="https://github.com/hs-1971467-jungchulHwang/Capstone_PerfumeShoppingMall/assets/115887505/7de4a9a9-bde2-4ef0-b90f-49530be44e37" width="150px" alt="조정우(조장)"/><br /><sub><b>조정우</b></sub></a>
+     </td>
+     <td align="center">
+        <a href="https://github.com/hs-1971467-jungchulHwang/Android_perfume"><img src="https://github.com/hs-1971467-jungchulHwang/Capstone_PerfumeShoppingMall/assets/115887505/e8bc96ce-4b19-4529-974b-2adf0ef722b4" width="150px" alt="황정철"/><br /><sub><b>황정철</b></sub></a>
+     </td>
+    <td align="center">
+    <a href="https://github.com/jaemin0211/backend_perfume"><img src="https://github.com/hs-1971467-jungchulHwang/Capstone_PerfumeShoppingMall/assets/115887505/61e2bead-0461-451b-9032-9b908abe6cd1" width="150px;" alt="정재민"<br /><sub><b>정재민</b></sub></a><br />
+    </td>
+     <td align="center">
+    <a href="https://github.com/hjjh0531/react-perfume"><img src="https://github.com/hs-1971467-jungchulHwang/Capstone_PerfumeShoppingMall/assets/115887505/ab62ddb8-ff66-43de-bd85-eaf7b64dad84" width="150px;" alt="김지효"<br /><sub><b>김지효</b></sub></a><br />
+    </td>
+  <tr>
 
+</table>
+</div>
 
 <br/>
 
