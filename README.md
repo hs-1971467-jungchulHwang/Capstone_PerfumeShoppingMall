@@ -33,7 +33,7 @@ React, Flutter와 SpringBoot를 이용한 향수 쇼핑몰 웹/앱 서비스로 
 
 ## 👩‍👩‍👧‍👦 팀원 소개
 
-| 역할                  | 학번       | 이름     | Git URL                                              |
+| 역할                  | 학번       | 이름    | Git URL                                              |
 |:---------------------:|:-----------:|:-------------:|:---------------------------------------------------:|
 | 프론트엔드 (IOS)     | 1971434 | 조정우  | [https://github.com/jungwoooooooo/perfumedream_capston2024](https://github.com/jungwoooooooo/perfumedream_capston2024)     |
 | 프론트엔드 (Android) | 1971467 | 황정철  | [https://github.com/hs-1971467-jungchulHwang/perfumedream_capston2024_Android](https://github.com/hs-1971467-jungchulHwang/perfumedream_capston2024_Android) |
