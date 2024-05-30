@@ -35,7 +35,7 @@ React, Flutter와 SpringBoot를 이용한 향수 쇼핑몰 웹/앱 서비스로 
 
 | 역할                  | 학번       | 이름      | Git URL                                              |
 |---------------------|-----------|-------------|---------------------------------------------------|
-| 프론트엔드 (IOS)     | 1971434 | 조정우      | [https://github.com/jungwoooooooo/perfumedream_capston2024](https://github.com/jungwoooooooo/perfumedream_capston2024)     |
+| 프론트엔드 (IOS)     | 1971434 | 조정우       | [https://github.com/jungwoooooooo/perfumedream_capston2024](https://github.com/jungwoooooooo/perfumedream_capston2024)     |
 | 프론트엔드 (Android) | 1971467 | 황정철      | [https://github.com/hs-1971467-jungchulHwang/Android_perfume](https://github.com/hs-1971467-jungchulHwang/Android_perfume) |
 | 프론트엔드 (React)   | 2171202 | 김지효      | [https://github.com/hjjh0531/react-perfume](https://github.com/hjjh0531/react-perfume)       |
 | 백엔드 (Spring Boot) | 1971196 | 정재민      | [https://github.com/jaemin0211/backend_perfume](https://github.com/jaemin0211/backend_perfume)   |
@@ -306,7 +306,7 @@ React, Flutter와 SpringBoot를 이용한 향수 쇼핑몰 웹/앱 서비스로 
    ( 상품 목록 )        ( 상품 상세 )        ( 로그인 )        ( 회원가입 )
 <img width="1000" alt="image" src="https://github.com/hs-1971467-jungchulHwang/Capstone_PerfumeShoppingMall/assets/115887505/e5c72848-9a59-48a4-a1e2-f390afd0bc42">   
 <br/>
-   ( 장바구니 )        ( 관심 상품 )        ( 내 정보 )        ( 주문조회 )
+    ( 장바구니 )        ( 관심 상품 )       ( 내 정보 )       ( 주문조회 )
 <img width="1000" alt="image" src="https://github.com/hs-1971467-jungchulHwang/Capstone_PerfumeShoppingMall/assets/115887505/8f39c53e-9871-4f56-834c-a3213a338417">
 <br/>
 
