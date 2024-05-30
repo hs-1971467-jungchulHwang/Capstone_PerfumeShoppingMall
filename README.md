@@ -236,6 +236,9 @@ React,Flutter와 SpringBoot를 이용한 향수쇼핑몰 웹/앱 서비스로 �
  ( 내 정보 )   
  <img width="946" alt="image" src="https://github.com/hs-1971467-jungchulHwang/Capstone_PerfumeShoppingMall/assets/106284092/58c38a03-6d7f-4477-bdf4-1fe02238ce0b">   
 <br/>
+ (주문 조회)
+ <img width="959" alt="image" src="https://github.com/hs-1971467-jungchulHwang/Capstone_PerfumeShoppingMall/assets/106284092/9ad6de69-cf9f-425b-9458-ffdbeaa55d2e">
+<br/>
  ( 메뉴 )   
  <img width="946" alt="image" src="https://github.com/hs-1971467-jungchulHwang/Capstone_PerfumeShoppingMall/assets/106284092/79dd91fb-3af8-4e9e-a630-be7e708bc9e1">   
 <br/>
@@ -270,6 +273,9 @@ React,Flutter와 SpringBoot를 이용한 향수쇼핑몰 웹/앱 서비스로 �
 <br/>
  ( 내 정보 )   
  <img width="241" alt="image" src="https://github.com/hs-1971467-jungchulHwang/Capstone_PerfumeShoppingMall/assets/106284092/c47966f0-1720-4d44-860a-b4b53c9fb757">   
+<br/>
+ (주문 조회)
+ <img width="227" alt="image" src="https://github.com/hs-1971467-jungchulHwang/Capstone_PerfumeShoppingMall/assets/106284092/3cac5cef-3026-422a-8b40-94bf9b0767e3">
 <br/>
  ( 메뉴 )   
  <img width="224" alt="image" src="https://github.com/hs-1971467-jungchulHwang/Capstone_PerfumeShoppingMall/assets/106284092/abcb981a-94ac-4d59-aa6e-29c944ed3e29">   
