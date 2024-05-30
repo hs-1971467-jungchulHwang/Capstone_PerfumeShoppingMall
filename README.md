@@ -298,22 +298,17 @@ React, Flutter와 SpringBoot를 이용한 향수 쇼핑몰 웹/앱 서비스로 
 
 ## 📹 시연 영상
 
-### 웹 영상
+### 리액트 시연 영상
+<br/>
+https://youtu.be/0xI4mW6GvUM
+<br/>
+
+### IOS 시연 영상
 <details>
 <summary> ▶️ click! </summary>
 </details>
 
-### 웹 앱 영상
-<details>
-<summary> ▶️ click! </summary>
-</details>
-
-### IOS 앱 영상
-<details>
-<summary> ▶️ click! </summary>
-</details>
-
-### Android 앱 영상
+### Android 시연 영상
 <details>
 <summary> ▶️ click! </summary>
 </details>
