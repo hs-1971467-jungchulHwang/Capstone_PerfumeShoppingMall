@@ -363,7 +363,7 @@ React, Flutter와 SpringBoot를 이용한 향수 쇼핑몰 웹/앱 서비스로 
 | code |          O         |   O   |   O   |   O   |
 | doc  |          O         |   O   |   X   |   X   |
 | 영상 |          O         |   X   |   X   |   X   |
-| 화면 | React(Web, Mobile), IOS, Android | React(Web, Mobile) | React(Web, Mobile) | React(Web, Mobile) |
+| 화면 | React(Web, Mobile),<br/> IOS, Android | React(Web, Mobile) | React(Web, Mobile) | React(Web, Mobile) |
 
 <br/>
 최우수 : https://github.com/capstone-aloha     
